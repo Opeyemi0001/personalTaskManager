@@ -1,5 +1,6 @@
 import Home from "./components/Home/Home"
 import Navbar from "./components/Navbar/Navbar"
+import Solutions from "./components/solutions/Solutions"
 
 function App() {
 
@@ -8,6 +9,7 @@ function App() {
     <>
       <Navbar />
       <Home />
+      <Solutions />
 
       <div>
         <h1 className="text-3xl underline">My name is opeyemi</h1>

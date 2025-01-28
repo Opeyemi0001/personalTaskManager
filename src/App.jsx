@@ -12,14 +12,14 @@ function App() {
 
   return (
     <>
-      {/* <Navbar />
+      <Navbar />
       <Home />
       <Solutions />
       <AboutUs />
       <Contact />
-      <Footer /> */}
+      <Footer />
       {/* <AuthPage /> */}
-      <UserDashboard />
+      {/* <UserDashboard /> */}
 
       <div>
     

@@ -8,7 +8,7 @@ const Navbar = () => {
     <nav className='flex items-center justify-between py-4 px-12'>
       {/* Logo  */}
       <div className='text-2xl font-bold'>
-        <Link to="/" className='hover:text-gray-700'>OPEYEMI</Link>
+        <Link to="/" className='hover:text-gray-700'>OPRAHTASK</Link>
       </div>
 
       {/* Navigation Links */}
